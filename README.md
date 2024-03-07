@@ -1,16 +1,60 @@
-### Hi there 👋
+# Anupama (Ana) Kadambi
 
-<!--
-**akadambi12/akadambi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact Information
+- **Location:** San Diego, USA
+- **Phone:** (480)-791-8821
+- **Email:** [Your Email](mailto:your.email@example.com)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
 
-Here are some ideas to get you started:
+## Summary
+Alteryx certified Business Intelligence Professional with extensive experience in data analysis and research. Specializing in data modeling, ETL processes, and visual analytics using MySQL, Python, R, Tableau, and Power BI. Proficient in cloud infrastructure (AWS) and aimed at leveraging analytical skills to drive data-driven decisions in a forward-thinking environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Business Intelligence Tools:** Tableau, MS Power BI, MS Excel, MS Power Apps, MS Power Automation
+- **Programming Languages:** Python, R, MATLAB
+- **Data Analysis & Modeling:** Alteryx, MySQL, MongoDB, ETL processes, SSMS, SSIS, SQL Server, stored procedures, DAX
+- **Statistical Analysis:** Regression Analysis, NumPy, Pandas
+- **Project Management:** Jira, Confluence, Slack
+- **Cloud Technologies:** AWS (Route 53, IAM, Database Services)
+- **Communication:** Adept at developing reports, presentations, and delivering verbal presentations to technical and business audiences.
+
+## Certifications
+- [Alteryx Foundation Micro-Credential](https://www.credly.com/badges/2c87437b-6d28-45d5-9abb-0c44e60bec9b/linked_in_profile)
+- [Alteryx Designer Core Micro-Credential](https://www.credly.com/badges/0e95e9f4-170d-4d80-8030-b5259b3d0b1c/linked_in_profile)
+
+## Portfolio Projects
+
+### Metro Finance Management & Analytics Platform
+[View on GitHub](https://github.com/akadambi12/Bank-Project-)
+- Developed an end-to-end banking application using Power Apps, Power Automate, SSMS, and stored procedures.
+- Created a dynamic KPI dashboard in Power BI, integrated with SQL Server for actionable insights on account metrics and client behavior.
+- Automated workflows with Power Automate for enhanced account management efficiency.
+
+## Work Experience
+
+### PHC, Arizona State University (Remote)
+#### Data Analyst (Present)
+- **Project 2:** Enhanced database architecture, developed MS Power BI dashboards, and automated data management tasks.
+- **Project 1:** Conducted player performance analysis using Python and R, applied statistical techniques, and managed project workflows.
+
+### Center for Cognitive Ubiquitous Computing, Arizona State University | Intel, Tempe, AZ
+#### Research Assistant (Aug '22)
+- Preprocessed and transformed data for Deep Learning models in Autonomous Navigation. Reduced training time by 30% through efficient data preparation.
+
+### Indian Space Research Organization (ISRO), ISTRAC, India
+#### Summer Intern, Mechanical Systems (Dec '20)
+- Improved data retrieval efficiency by 25% using MySQL. Conducted exploratory data analysis and predictive modeling for mechanical systems.
+
+## Education
+
+### Arizona State University, Tempe, AZ
+- **Masters in Robotics: Machine Learning and Statistics** (GPA: 3.50/4.0)
+
+### RNS Institute of Technology, India
+- **Bachelor of Engineering**
+
+## Projects
+
+### Retail Store Sales Prediction (STP 530)
+[View on GitHub](https://github.com/akadambi12/Data-Analyst-Portfolio-Anupama-Kadambi/tree/main)
+- Predicted Walmart sales using Linear and Random Forest models. Conducted EDA to identify sales trends.
