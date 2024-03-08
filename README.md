@@ -1,7 +1,7 @@
 # Anupama (Ana) Kadambi
 
 ## Contact Information
-- **Location:** San Diego, USA
+- **Location:** USA
 - **Phone:** (480)-791-8821
 - **Email:** [Your Email](mailto:your.email@example.com)
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
