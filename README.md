@@ -3,8 +3,8 @@
 ## Contact Information
 - **Location:** USA
 - **Phone:** (480)-791-8821
-- **Email:** [Email](kadambi.anupama@gmail.com)
-- **LinkedIn:** [LinkedIn](www.linkedin.com/in/anupama-kadambi12)
+- **Email:** kadambi.anupama@gmail.com
+- **LinkedIn:** www.linkedin.com/in/anupama-kadambi12
 
 ## Summary
 Alteryx certified Business Intelligence Professional with extensive experience in data analysis and research. Specializing in data modeling, ETL processes, and visual analytics using MySQL, Python, R, Tableau, and Power BI. Proficient in cloud infrastructure (AWS) and aimed at leveraging analytical skills to drive data-driven decisions in a forward-thinking environment.
