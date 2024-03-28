@@ -10,7 +10,7 @@
 Alteryx certified Business Intelligence Professional with extensive experience in data analysis and research. Specializing in data modeling, ETL processes, and visual analytics using MySQL, Python, R, Tableau, and Power BI. Proficient in cloud infrastructure (AWS) and aimed at leveraging analytical skills to drive data-driven decisions in a forward-thinking environment.
 
 ## Skills
-- **Business Intelligence Tools:** Tableau, MS Power BI, MS Excel, MS Power Apps, MS Power Automation
+- **Business Intelligence Tools:** Tableau, MS Power BI, MS Excel, MS Power Apps, MS Power Automate, SharePoint
 - **Programming Languages:** Python, R, MATLAB
 - **Data Analysis & Modeling:** Alteryx, MySQL, MongoDB, ETL processes, SSMS, SSIS, SQL Server, stored procedures, DAX
 - **Statistical Analysis:** Regression Analysis, NumPy, Pandas
