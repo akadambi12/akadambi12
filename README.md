@@ -24,6 +24,15 @@ Alteryx certified Business Intelligence Professional with extensive experience i
 
 ## Portfolio Projects
 
+### Ticket System using PowerApps and SharePoint
+[View on GitHub](https://github.com/akadambi12/Ticket-System-PowerApp-)
+- Built a Ticket System for an organization to raise ticket to the IT deparmtment when they experience hardware/software issues with their devices.
+- Developed a SharePoint list to store the information and avoid delegation issues.
+- Full video walkthrough is available along with original file, SharePoint link and images.
+
+
+
+
 ### Metro Finance Management & Analytics Platform
 [View on GitHub](https://github.com/akadambi12/Bank-Project-)
 - Developed an end-to-end banking application using Power Apps, Power Automate, SSMS, and stored procedures.
