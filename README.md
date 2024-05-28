@@ -21,7 +21,7 @@ Alteryx certified Business Intelligence Professional with extensive experience i
 ## Certifications
 - [Alteryx Foundation Micro-Credential](https://www.credly.com/badges/2c87437b-6d28-45d5-9abb-0c44e60bec9b/linked_in_profile)
 - [Alteryx Designer Core Micro-Credential](https://www.credly.com/badges/0e95e9f4-170d-4d80-8030-b5259b3d0b1c/linked_in_profile)
-- [[Microsoft Azure AZ 900 Prep Certification]](https://www.linkedin.com/learning/certificates/1993d76337bcb0f881faa57646323230bd65f712750434875dfa39553628f810?trk=share_certificate)
+- [Microsoft Azure AZ 900 Prep Certification](https://www.linkedin.com/learning/certificates/1993d76337bcb0f881faa57646323230bd65f712750434875dfa39553628f810?trk=share_certificate)
 
 ## Portfolio Projects
 
